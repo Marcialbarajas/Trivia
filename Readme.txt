@@ -1,10 +1,10 @@
-Pequeña aplicación hecha con una API (Quizzler) y una interfaz realizada en Tkinter.
+Pequeña aplicación hecha con una API (OpenTriviadtb) y una interfaz realizada en Tkinter.
 
 La aplicación tiene por defecto 10 preguntas (que se le piden a la api) pero se puede ampliar.
 
 Tiene varios archivos, los cuales se dividen en:
 
-data.py: Hace una request a la api de quizzle con el número de preguntas, el tipo de preguntas (en este caso Boolean)
+data.py: Hace una request a la api de OpenTriviadtb con el número de preguntas, el tipo de preguntas (en este caso Boolean)
 y la categoría
 
 question_model.py: Clase donde se definen las preguntas, el avanzar y acertar.
